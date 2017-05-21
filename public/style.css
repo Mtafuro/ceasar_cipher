@@ -1,0 +1,39 @@
+body {
+  background-image:     url(ceasar_murder.jpg);
+  background-size:      cover;
+  background-repeat:    no-repeat;
+  background-position:  center center;
+}
+
+
+p1 {
+  color:                white;
+  font-family:          Copperplate, fantasy;
+  font-size:            54px;
+  font-weight:          200;
+  text-shadow:          2px 2px 1px #000000;
+}
+
+
+p2 {
+  color:                white;
+  font-family:          Alegreya SC, serif;
+  font-size:            14px;
+  text-shadow:          2px 2px 1px #121212;
+}
+
+
+form {
+  color:                white;
+  font-family:          Alegreya SC, serif;
+  font-size:            24px;
+  text-shadow:          2px 2px 1px #121212;
+}
+
+
+input {
+  color:                white;
+  background-color:     black;
+  border:               1px;
+
+}
