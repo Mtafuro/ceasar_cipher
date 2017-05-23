@@ -3,7 +3,7 @@ require "sinatra"
 require "./lib/ceasar-cipher"
 
 
-get "/ceasar_cipher" do
+get "/" do
   erb :home
 end
 
